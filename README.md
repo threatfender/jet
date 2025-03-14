@@ -37,21 +37,21 @@ This is a tentative roadmap establishing the project's evolutionary trajectory:
 
 ### Phase 01
 
-  * [ ] jet.carrier   # Manage cloud app nodes
-  * [ ] jet.pilot     # Manage OS service configuration
-  * [ ] jet.wingman   # Manage proxy servers
-  * [ ] jet           # Manage app deployments
+  * [ ] jet.carrier   - Manage cloud app nodes
+  * [ ] jet.pilot     - Manage OS service configuration
+  * [ ] jet.wingman   - Manage proxy servers
+  * [ ] jet           - Manage app deployments
 
 ### Phase 02
 
-  * [ ] jet.hangar    # Manage cloud build nodes
-  * [ ] jet.base      # Manage organization's space
+  * [ ] jet.hangar    - Manage cloud build nodes
+  * [ ] jet.base      - Manage organization's space
 
 ### Phase 03
 
-  * [ ] jet.bay       # Manage security controls
-  * [ ] jet.depo      # Manage storage space (block storage)
-  * [ ] jet.tower     # Centralized operations server
+  * [ ] jet.bay       - Manage security controls
+  * [ ] jet.depo      - Manage storage space (block storage)
+  * [ ] jet.tower     - Centralized operations server
 
 
 ## License
